@@ -22,5 +22,5 @@ This project is meant for practice and showcasing front-end design capabilities.
 
 ## 🧑‍💻 Author
 
-Created by [Your Name](https://github.com/NitinPrakash2)  
+Created by [Nitin Prakash](https://github.com/NitinPrakash2)  
 This UI clone is for educational and non-commercial use only.
